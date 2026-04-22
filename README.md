@@ -1,6 +1,6 @@
 <!-- Centered Profile Header with Styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+I'm+Sir-CxdesAlot;Full-stack+Engineer+in+Training;2nd+Year+CS+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+I'm+Sir-CxdesAlot;Full-stack+Engineer+in+Training;3rd+Year+CS+Student" />
 </p>
 
 ---
