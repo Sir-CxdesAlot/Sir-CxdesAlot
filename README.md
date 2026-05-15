@@ -9,7 +9,7 @@
 
 🎓 I'm a **third-year Computer Science student** with a deep interest in full-stack software engineering.  
 🔥 I’m passionate about solving real-world problems with clean, maintainable code.  
-💼 I aim to contribute to open-source and continue growing my skills across the stack.
+💼 I aim to contribute to open-source and to continue growing my skills across the stack.
 
 ---
 
