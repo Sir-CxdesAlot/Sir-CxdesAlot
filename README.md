@@ -1,15 +1,16 @@
 <!-- Centered Profile Header with Styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+I'm+Sir-CxdesAlot;Full-stack+Engineer+in+Training;3rd+Year+CS+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+I'm+Tayo;Software+Engineer+in+Training;Final+Year+CS+Student+%40+NUST" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-🎓 I'm a **third-year Computer Science student** with a deep interest in full-stack software engineering.  
-🔥 I’m passionate about solving real-world problems with clean, maintainable code.  
-💼 I aim to contribute to open-source and to continue growing my skills across the stack.
+🎓 Final-year **Computer Science student at NUST**, graduating November 2026.
+🔥 Passionate about building clean, maintainable software that solves real-world problems.
+☁️ Recently completed the **AWS AI Practitioner Challenge** via Udacity.
+💼 Open to software engineering internship opportunities.
 
 ---
 
@@ -17,27 +18,38 @@
 
 #### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🔧 Tools & Tech
+#### 🔧 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%236877F0?style=for-the-badge&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23100000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Scene Builder](https://img.shields.io/badge/SceneBuilder-%23ED1D25?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ### 🚀 Currently Exploring
-- 🌐 **React.js** and **Node.js** for full-stack web development  
-- 🗃️ Building better database designs with **SQL** and **MongoDB**  
-- 🎯 Improving problem-solving with **DSA** and real-world projects
+- ☁️ **AWS Cloud & AI services** — building on my AI Practitioner foundation
+- 🌐 **React.js** and **Node.js** for full-stack web development
+- 🗃️ Stronger **database design patterns** with SQL and MongoDB
+- 🎯 Sharpening **DSA** and algorithmic problem-solving
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Faith Compass](https://partyrock.aws/u/T-Omotayo/3FyEebQNb/Faith-Compass%3A-Biblical-Guidance-for-Life) | AI-powered app connecting personal dilemmas to Biblical scripture | AWS PartyRock · Gen AI |
+| [Lecturer Management System](https://github.com/Sir-CxdesAlot/Lecturer-Management-System) | Desktop app for managing lecturers, courses & classroom assignments | Java · JavaFX · CSS |
 
 ---
 
@@ -50,7 +62,7 @@
 
 ---
 
-### 🔗 Let’s Connect
+### 🔗 Let's Connect
 
 <p align="left">
   <a href="https://github.com/Sir-CxdesAlot" target="_blank">
@@ -59,19 +71,21 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sir.cxdesalot@example.com" target="_blank">
+  <a href="mailto:omotayoenoch2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sir-cxdesalot.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 💬 Fun Quote
-> “First, solve the problem. Then, write the code.” – John Johnson
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
-<!-- Optional aesthetic: add a cool footer line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
 </p>
